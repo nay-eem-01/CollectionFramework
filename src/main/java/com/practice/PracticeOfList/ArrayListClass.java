@@ -1,4 +1,4 @@
-package PracticeOfList;
+package com.practice.PracticeOfList;
 
 import java.util.*;
 
