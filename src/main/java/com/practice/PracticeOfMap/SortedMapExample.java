@@ -1,6 +1,6 @@
 package com.practice.PracticeOfMap;
 
-import PracticeOfList.Student;
+import com.practice.PracticeOfList.Student;
 
 import java.util.*;
 

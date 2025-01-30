@@ -1,4 +1,4 @@
-package PracticeOfList;
+package com.practice.PracticeOfList;
 
 public class Student implements Comparable<Student>{
     int rollNo;
